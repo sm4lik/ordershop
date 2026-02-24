@@ -692,7 +692,7 @@ sudo tail -f /var/log/nginx/error.log
 
 - Документация: `README.md`, `INSTALL.md`
 - GitHub Issues: https://github.com/sm4lik/ordershop/issues
-- Email: support@yourdomain.com
+- Email: ftptrump@gmail.com
 
 ---
 
