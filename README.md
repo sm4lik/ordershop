@@ -339,8 +339,8 @@ MIT License - см. файл [LICENSE](LICENSE) для деталей.
 ## 📞 Поддержка
 
 - Документация: `INSTALL.md`
-- Email: support@ordershop.ru
-- Telegram: @ordershop_support
+- Email: ftptrump@gmail.com
+- Telegram: @admfegg
 
 ## 🙏 Благодарности
 
